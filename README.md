@@ -7,6 +7,8 @@
 
 This assignment uses the power of javascript to generate a randomized password for the user. As long a they abide by the criteria of the password selection options, they will get a completely random password set to the length and characters of their choosing.
 
+```
+
 ## Acceptance Criteria
 
 ```
