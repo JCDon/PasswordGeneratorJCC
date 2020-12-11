@@ -1,4 +1,4 @@
-# passwordwork
+# PasswordGeneratorJCC
 
 
 ## Summary
